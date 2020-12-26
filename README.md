@@ -1,4 +1,4 @@
-#Simple crud using go
+##Simple crud using Go
 
-#Execution
-go run main.go
+##Execution
+ go run main.go
